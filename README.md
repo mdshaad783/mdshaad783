@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD SHAAD REHAN
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Shaad Rehan
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
@@ -24,11 +24,11 @@ src="https://img.shields.io/github/followers/mdshaad783?logo=github&style=for-th
 
 # Badges 
 
-[![An image of @mdshaad783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdshaad783)](https://holopin.io/@mdshaad783)
+[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdshaad783)](https://holopin.io/@mdshaad783)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mdshaad783"><img src="https://github-readme-stats.vercel.app/api?username=mdshaad783&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dipayansarkar47's GitHub stats" /></a>
+<a href="http://www.github.com/mdshaad783"><img src="https://github-readme-stats.vercel.app/api?username=mdshaad783&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mdshaad783's GitHub stats" /></a>
 
 <a href="http://www.github.com/mdshaad783"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshaad783&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -38,4 +38,4 @@ src="https://img.shields.io/github/followers/mdshaad783?logo=github&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mdshaad783/mdshaad" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshaad783&repo=Shaad&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mdshaad783/mdshaad" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshaad783&repo=Shaad&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/mdshaad783/mdshaad" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshaad783&repo=mdshaad&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mdshaad783/mdshaad" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdshaad783&repo=shaad&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
