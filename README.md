@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Shaad Rehan
+<a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Md+Shaad+Rehan+%F0%9F%91%8B" alt="Typing SVG">
+    </a>
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
