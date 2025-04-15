@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Md+Shaad+Rehan+%F0%9F%91%8B" alt="Typing SVG">
+      </a>
       <img src="https://user-images.githubusercontent.com/6520701/239780509-2be00c62-aac6-46cf-bfff-e7d62b436aee.gif" width="60" style="vertical-align:text-bottom;">
-    </a>
+    
 ======================================================================================================================================
 
 <a href="https://www.github.com/mdshaad783" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mdshaad783?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
